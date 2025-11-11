@@ -1,0 +1,6 @@
+@NiwadevApi_HostAddress = http://localhost:5072
+
+GET {{NiwadevApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

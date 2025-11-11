@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|c:\\users\\lullr\\onedrive\\dokumente\\github\\demos\\demos\\niwadevapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|c:\\users\\lullr\\onedrive\\dokumente\\github\\demos\\demos\\niwadevapi\\logic\\orderlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|solutionrelative:logic\\orderlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|c:\\users\\lullr\\onedrive\\dokumente\\github\\demos\\demos\\niwadevapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04276BFF-B5CE-414A-B7AC-6A0D5ABE9388}|..\\NiwADevTests\\NiwADevTests.csproj|c:\\users\\lullr\\onedrive\\dokumente\\github\\demos\\demos\\niwadevtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|c:\\users\\lullr\\onedrive\\dokumente\\github\\demos\\demos\\niwadevapi\\data\\niwadevapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|solutionrelative:data\\niwadevapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04276BFF-B5CE-414A-B7AC-6A0D5ABE9388}|..\\NiwADevTests\\NiwADevTests.csproj|c:\\users\\lullr\\onedrive\\dokumente\\github\\demos\\demos\\niwadevtests\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04276BFF-B5CE-414A-B7AC-6A0D5ABE9388}|..\\NiwADevTests\\NiwADevTests.csproj|c:\\users\\lullr\\onedrive\\dokumente\\github\\demos\\demos\\niwadevtests\\niwadevtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|c:\\users\\lullr\\onedrive\\dokumente\\github\\demos\\demos\\niwadevapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|c:\\users\\lullr\\onedrive\\dokumente\\github\\demos\\demos\\niwadevapi\\niwadevapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|solutionrelative:niwadevapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|c:\\users\\lullr\\onedrive\\dokumente\\github\\demos\\demos\\niwadevapi\\niwadevapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|solutionrelative:niwadevapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|c:\\users\\lullr\\onedrive\\dokumente\\github\\demos\\demos\\niwadevapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04276BFF-B5CE-414A-B7AC-6A0D5ABE9388}|..\\NiwADevTests\\NiwADevTests.csproj|c:\\users\\lullr\\onedrive\\dokumente\\github\\demos\\demos\\niwadevtests\\niwadevtests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|c:\\users\\lullr\\onedrive\\dokumente\\github\\demos\\demos\\niwadevapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|c:\\users\\lullr\\onedrive\\dokumente\\github\\demos\\demos\\niwadevapi\\logic\\inputlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF404046-683B-4995-9271-09E75B4E1173}|NiwadevApi.csproj|solutionrelative:logic\\inputlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwADevTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\NiwADevTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwADevTests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\NiwADevTests\\UnitTest1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:35:45.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderLogic.cs",
+              "DocumentMoniker": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\Logic\\OrderLogic.cs",
+              "RelativeDocumentMoniker": "Logic\\OrderLogic.cs",
+              "ToolTip": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\Logic\\OrderLogic.cs",
+              "RelativeToolTip": "Logic\\OrderLogic.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:18:45.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T19:00:27.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:11:40.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NiwADevTests.csproj",
+              "DocumentMoniker": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwADevTests\\NiwADevTests.csproj",
+              "RelativeDocumentMoniker": "..\\NiwADevTests\\NiwADevTests.csproj",
+              "ToolTip": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwADevTests\\NiwADevTests.csproj",
+              "RelativeToolTip": "..\\NiwADevTests\\NiwADevTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T09:45:10.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA6wC4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T23:14:06.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NiwadevApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\Data\\NiwadevApiContext.cs",
+              "RelativeDocumentMoniker": "Data\\NiwadevApiContext.cs",
+              "ToolTip": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\Data\\NiwadevApiContext.cs",
+              "RelativeToolTip": "Data\\NiwadevApiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:49:40.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwADevTests\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\NiwADevTests\\appsettings.json",
+              "ToolTip": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwADevTests\\appsettings.json",
+              "RelativeToolTip": "..\\NiwADevTests\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T23:01:58.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T19:00:30.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NiwADevTests",
+              "DocumentMoniker": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwADevTests\\NiwADevTests.csproj",
+              "RelativeDocumentMoniker": "..\\NiwADevTests\\NiwADevTests.csproj",
+              "ToolTip": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwADevTests\\NiwADevTests.csproj",
+              "RelativeToolTip": "..\\NiwADevTests\\NiwADevTests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T09:45:16.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InputLogic.cs",
+              "DocumentMoniker": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\Logic\\InputLogic.cs",
+              "RelativeDocumentMoniker": "Logic\\InputLogic.cs",
+              "ToolTip": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\Logic\\InputLogic.cs",
+              "RelativeToolTip": "Logic\\InputLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:18:33.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NiwadevApi.csproj",
+              "DocumentMoniker": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\NiwadevApi.csproj",
+              "RelativeDocumentMoniker": "NiwadevApi.csproj",
+              "ToolTip": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\NiwadevApi.csproj",
+              "RelativeToolTip": "NiwadevApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T16:01:44.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NiwadevApi",
+              "DocumentMoniker": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\NiwadevApi.csproj",
+              "RelativeDocumentMoniker": "NiwadevApi.csproj",
+              "ToolTip": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\NiwadevApi.csproj",
+              "RelativeToolTip": "NiwadevApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T16:01:47.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lullr\\OneDrive\\Dokumente\\GitHub\\Demos\\Demos\\NiwadevApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:28:22.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
