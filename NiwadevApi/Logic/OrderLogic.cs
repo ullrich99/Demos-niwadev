@@ -18,30 +18,30 @@ namespace NiwadevApi.Logic
             }
 
         }
-        public static bool ValidateOrder(NiwadevApiContext context, Order orderToValidate)
+        public static string ValidateOrder(NiwadevApiContext context, Order orderToValidate)
         {
             try
             {
                 if (orderToValidate == null)
                 {
-                    return false;
+                    return "Missing Order";
                 }
-                if (!ProductExists(context, orderToValidate.ProductID))
-                    return false;
+                
                 if (!InputLogic.CheckName(orderToValidate.CustomerName)) 
-                return false;
+                return "Name not compliant";
                 if (!InputLogic.CheckZipCode(orderToValidate.CustomerZipCode))
-                    return false;
-                if(!InputLogic.CheckPlace(orderToValidate.CustomerZipCode))
-                    return false;
+                    return "Zipcode not compliant";
+                if(!InputLogic.CheckPlace(orderToValidate.CustomerCity))
+                    return "Cityname not compliant";
                 if(!InputLogic.CheckAddress(orderToValidate.CustomerAddress))
-                    return false;
-
-                return true;
+                    return "Street not compliant";
+                if (!ProductExists(context, orderToValidate.ProductID))
+                    return "Product doesnt exist";
+                return "OK";
             }
             catch (Exception ex)
             {
-                return false;
+                return "Error";
             }
         }
         

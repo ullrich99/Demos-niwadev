@@ -37,11 +37,12 @@ namespace NiwadevApi.Controllers
         }
         [HttpPost]
         [Route("/CreateOrder")]
-        public bool CreateNewOrder([FromBody] Order newOrder)
+        public string CreateNewOrder([FromBody] Order newOrder)
         {
             try
             {
-                if (OrderLogic.ValidateOrder(_context, newOrder))
+                string validationMessage = OrderLogic.ValidateOrder(_context, newOrder);
+                if (validationMessage == "OK")
                 {
                     newOrder.Product = _context.Products.FirstOrDefault(w => w.Id == newOrder.ProductID);
                     float price = OrderLogic.CalculatePrice(newOrder);
@@ -50,15 +51,19 @@ namespace NiwadevApi.Controllers
                         newOrder.TotalPrice = price;
                         _context.Orders.Add(newOrder);
                         _context.SaveChanges();
-                        return true;
+                        return validationMessage;
+                    }
+                    else
+                    {
+                        return "Price calculation Error";
                     }
                 }
-                return false;
+                return validationMessage;
             }
             catch(Exception ex)
             {
                 //log
-                return false;
+                return "Error";
             }
         }
 
